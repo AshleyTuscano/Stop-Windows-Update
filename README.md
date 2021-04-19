@@ -1,8 +1,18 @@
 # Stop Windows Update
 ## Select any one step
+
 [➤ Download the complete repository.](#download-the-complete-repository)<br />
 [➤ Copy the main file.](#Copy-the-main-file)<br />
 [➤ Stop the update service manually.](#Stop-the-update-service-manually)
+#### Note : 
++ addition
+- text in red
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+<div class="text-white bg-blue mb-2">
+  .text-white on .bg-blue
+</div>
 
 ### Download the complete repository
 
