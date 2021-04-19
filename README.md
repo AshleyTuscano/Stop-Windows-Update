@@ -18,9 +18,6 @@
 
 ![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/final.jpg)
 
-![Click Yes](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/Click%20On%20Run%20as%20Admin.jpg)
 ### Copy the main file
 ### Stop the update service manually
 2. or just copy the contents in this [file](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/Stop%20WIndows%20Update.bat).
-
-![Image of Yaktocat](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/Ballons.jpg)
