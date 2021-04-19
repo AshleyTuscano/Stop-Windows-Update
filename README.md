@@ -11,7 +11,7 @@
 3. Right click on file.
 4. Click on "run as administrator".
 
-![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/Click%20On%20Run%20as%20Admin.jpg)
+![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/run%20as%20admin.jpg)
 
 5. Click "Yes".
 
