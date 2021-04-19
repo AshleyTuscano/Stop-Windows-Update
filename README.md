@@ -73,11 +73,11 @@
 11. Navigate to this location "Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WaaSMedicSvc"
 12. On the right side double click on start.
 
-![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/medic%20service%20properties.png)
+![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/medic%20service%20.png)
 
 13. Change Value to "4". Then click OK.
 
-![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/medic%20service%20properties.png)
+![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/change%20value.png)
 
 15. Close Registory Editor.
 
