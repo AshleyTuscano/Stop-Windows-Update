@@ -1,3 +1,4 @@
 # Stop-Windows-Update
-This repository tells you how to stop windows update and disable it. Note: Windows update can't be disable permanently.
+ Download the file ![here](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/Stop%20WIndows%20Update.bat).
+
 ![Image of Yaktocat](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/Ballons.jpg)
