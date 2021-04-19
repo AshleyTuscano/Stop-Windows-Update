@@ -6,7 +6,7 @@
 
 ### Download the complete repository
 
-1. [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/Stop%20WIndows%20Update.bat) the repository as a zip file.
+1. Download the repository as a zip file. [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/Stop%20WIndows%20Update.bat)
 2. Unzip the downloaded folder at your desired location.
 3. Right click on file.
 4. Click on "run as administrator".
@@ -53,10 +53,11 @@
 
 3. Scroll down till you you find Windows Update.
 4. Then Right click on it and go to properties.
+5. Stop the service. Disable it then apply all the changes. Then click OK.
 
 ![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/servicer%20properties.PNG)
 
-
+6. In the services tab, search for Windows Update Medic Service.
 
 
 
