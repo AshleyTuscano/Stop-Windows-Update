@@ -8,7 +8,7 @@
 
 1. [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/Stop%20WIndows%20Update.bat) the repository as a zip file.
 2. Unzip the downloaded folder at your desired location.
-3. Right click on "Stop Windows Update.bat".
+3. Right click on file.
 4. Click on "run as administrator".
 
 ![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/Click%20On%20Run%20as%20Admin.jpg)
@@ -20,8 +20,6 @@
 6. This is the final screen that will appear after completion.
 
 ![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/final.jpg)
-
-7. If you remember all the steps then you can delete the zip file. Only important file is "Stop Windows Update.bat"
 
 [➤ Home.](#Stop-Windows-Update)
 
