@@ -58,10 +58,28 @@
 ![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/servicer%20properties.PNG)
 
 6. In the services tab, search for Windows Update Medic Service.
-7. Stop the service and apply. Then Click OK.
+7. Stop the service and apply. Then Click OK. Close Services tab.
 
-![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/servicer%20properties.PNG)
+![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/medic%20service%20properties.png)
 
+#### Read aheah only if you want to disable Windows Update Medic Service also.
+
+8. Press Win+R
+9. Type "regedit" then press OK.
+10. Click Yes in the next dialogue box.
+
+![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/medic%20service%20properties.png)
+
+11. Navigate to this location "Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WaaSMedicSvc"
+12. On the right side double click on start.
+
+![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/medic%20service%20properties.png)
+
+13. Change Value to "4". Then click OK.
+
+![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/medic%20service%20properties.png)
+
+15. Close Registory Editor.
 
 
 
