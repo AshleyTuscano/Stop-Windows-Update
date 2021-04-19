@@ -5,14 +5,19 @@
 [➤ Copy the main file.](#Copy-the-main-file)<br />
 [➤ Stop the update service manually.](#Stop-the-update-service-manually)
 #### Note : 
-+ addition
-- text in red
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
-<div class="text-white bg-blue mb-2">
-  .text-white on .bg-blue
-</div>
+```diff
+-Hello
+```
+
+# Color Test Document
+
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
+
+## Second Heading
+
+This is a test to see how the colors work.
 
 ### Download the complete repository
 
