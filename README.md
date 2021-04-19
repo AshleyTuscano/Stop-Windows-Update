@@ -19,6 +19,8 @@
 
 ![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/final.jpg)
 
+6. If you remember all the steps then you can delete the zip file. Only important file is "Stop Windows Update.bat"
+
 ### Copy the main file
 ### Stop the update service manually
 2. or just copy the contents in this [file](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/Stop%20WIndows%20Update.bat).
