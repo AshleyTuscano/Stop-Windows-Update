@@ -4,7 +4,7 @@
 * [➤ Copy the main file.](#Copy-the-main-file)
 * [➤ Stop the update service manually.](#Stop-the-update-service-manually)
 
-### ![Download](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/download.png | width = 50)Download the complete repository
+### <img src="https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/download.jpg" width="48">![Download]Download the complete repository
 1. Unzip the downloaded folder at your desired location.
 2. Right click on "Stop Windows Update.bat".
 3. Click on "run as administrator".
