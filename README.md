@@ -7,7 +7,7 @@
 #### Note : 
 ```diff
 -Windows can overwrite these changes so there's no permanent way of stopping updates. 
-But run the File when you start your system or if your system was ideal for sometime.
+-But run the File when you start your system or if your system was ideal for sometime.
 ```
 
 ### Download the complete repository
