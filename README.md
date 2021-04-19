@@ -10,6 +10,7 @@
 3. Click on "run as administrator".
 
 ![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/Click%20On%20Run%20as%20Admin.jpg)
+
 4. Click "Yes".
 
 ![Click yes](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/click%20yes.png)
