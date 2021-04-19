@@ -6,21 +6,22 @@
 
 ### Download the complete repository
 
-1. Unzip the downloaded folder at your desired location.
-2. Right click on "Stop Windows Update.bat".
-3. Click on "run as administrator".
+1. [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/Stop%20WIndows%20Update.bat) the repository as a zip file.
+2. Unzip the downloaded folder at your desired location.
+3. Right click on "Stop Windows Update.bat".
+4. Click on "run as administrator".
 
 ![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/Click%20On%20Run%20as%20Admin.jpg)
 
-4. Click "Yes".
+5. Click "Yes".
 
 ![Click yes](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/click%20yes.png)
 
-5. This is the final screen that will appear after completion.
+6. This is the final screen that will appear after completion.
 
 ![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/final.jpg)
 
-6. If you remember all the steps then you can delete the zip file. Only important file is "Stop Windows Update.bat"
+7. If you remember all the steps then you can delete the zip file. Only important file is "Stop Windows Update.bat"
 
 [➤ Home.](#Stop-Windows-Update)
 
@@ -47,3 +48,24 @@
 
 ### Stop the update service manually
 
+1. Press Win + R.
+2. Type "services.msc" and click OK.
+
+![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/win%2BR-services.jpg)
+
+3. Scroll down till you you find Windows Update.
+4. Then Right click on it and go to properties.
+
+![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/servicer%20properties.PNG)
+
+
+
+
+
+
+
+
+
+
+
+[➤ Home.](#Stop-Windows-Update)
