@@ -1,4 +1,4 @@
-# Stop-Windows-Update
+# Stop Windows Update
 ## Select any one step
 * [➤ Download the complete repository.](#download-the-complete-repository)
 * [➤ Copy the main file.](#Copy-the-main-file)
@@ -22,6 +22,8 @@
 
 6. If you remember all the steps then you can delete the zip file. Only important file is "Stop Windows Update.bat"
 
+* [➤ Home.](#Stop-Windows-Update)
+
 ### Copy the main file
 
 1. Copy all the content in this [file](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/Stop%20WIndows%20Update.bat).
@@ -40,6 +42,8 @@
 8. This is the final screen that will appear after completion.
 
 ![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/final.jpg)
+
+* [➤ Home.](#Stop-Windows-Update)
 
 ### Stop the update service manually
 
