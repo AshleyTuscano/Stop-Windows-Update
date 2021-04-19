@@ -6,18 +6,8 @@
 [➤ Stop the update service manually.](#Stop-the-update-service-manually)
 #### Note : 
 ```diff
--Hello
+-Windows can overwrite these changes so there's no permanent way of stopping updates. But run the File when you start your system or if your system was ideal for sometime.
 ```
-
-# Color Test Document
-
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
-
-## Second Heading
-
-This is a test to see how the colors work.
 
 ### Download the complete repository
 
