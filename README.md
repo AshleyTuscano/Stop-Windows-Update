@@ -58,6 +58,11 @@
 ![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/servicer%20properties.PNG)
 
 6. In the services tab, search for Windows Update Medic Service.
+7. Stop the service and apply. Then Click OK.
+
+![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/servicer%20properties.PNG)
+
+
 
 
 
