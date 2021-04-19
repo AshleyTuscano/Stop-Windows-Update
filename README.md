@@ -8,7 +8,7 @@
 1. Unzip the downloaded folder at your desired location.
 2. Right click on "Stop Windows Update.bat".
 3. Click on "run as administrator".
-![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/Click-On-Run-as-Admin.jpg)
+![Run as Admin](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/Click_On_Run_as_Admin.jpg)
 4. 
 ### Copy the main file
 ### Stop the update service manually
