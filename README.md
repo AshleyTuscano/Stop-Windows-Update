@@ -1,7 +1,7 @@
 # Stop Windows Update
 ## Select any one step
-[➤ Download the complete repository.](#download-the-complete-repository)
-[➤ Copy the main file.](#Copy-the-main-file)
+[➤ Download the complete repository.](#download-the-complete-repository)<br />
+[➤ Copy the main file.](#Copy-the-main-file)<br />
 [➤ Stop the update service manually.](#Stop-the-update-service-manually)
 
 ### Download the complete repository
