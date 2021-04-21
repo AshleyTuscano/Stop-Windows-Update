@@ -68,7 +68,7 @@
 
 ![Services](https://github.com/AshleyTuscano/Stop-Windows-Update/blob/main/images/medic%20service%20properties.png)
 
-#### Read aheah only if you want to disable Windows Update Medic Service also.
+#### Read ahead only if you want to disable Windows Update Medic Service also.
 
 8. Press Win+R
 9. Type "regedit" then press OK.
